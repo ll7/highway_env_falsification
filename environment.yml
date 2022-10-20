@@ -1,0 +1,7 @@
+name: highway_falsify
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pygame
+    - highway_env
